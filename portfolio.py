@@ -39,6 +39,4 @@ st.markdown("""
 """)
 
 st.title("Projets personnels")
-st.markdown("""
-
-""")
+st.markdown("""Devenir un cadre dans l'armée""")
